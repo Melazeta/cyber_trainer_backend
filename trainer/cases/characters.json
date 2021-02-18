@@ -1,0 +1,146 @@
+{
+    "CR0000": {
+        "description": "Dummy personage used for anonymous email or conversations",
+        "dummy": true,
+        "calls": [],
+        "chats": [],
+        "emails": [],
+        "sites": []
+    },
+    "CR0001": {
+        "avatar": "avatar-cr0001.jpg",
+        "first_name": "Jeff",
+        "last_name": "Coller",
+        "born": "12/03/1980",
+        "dummy": false,
+        "email": "jeff.coller@ecompany.com",
+        "telephone": "5058006247",
+        "interests": [ "sport", "music" ],
+        "job": "ICT Manager",
+        "job_place": "E-company",
+        "job_begin": "01/09/2000",
+        "born_visibility": "public",
+        "contacts_visibility": "friends",
+        "job_visibility": "friends",
+        "interests_visibility": "hidden",
+        "graphX": 0,
+        "graphY": 100,
+        "calls": [
+            {
+                "call_id": "CL0001",
+                "role_id": 2
+            }
+        ],
+        "chats": [
+            {
+                "chat_id": "CT0002",
+                "role_id": 2 
+            }
+        ],
+        "emails": [
+            {
+                "email_id": "EL0001",
+                "role_id": 2
+            },
+            {
+                "email_id": "EL0002",
+                "role_id": 2
+            }
+        ],
+        "sites": [
+            {
+                "site_id": "SE0001"
+            },
+            {
+                "site_id": "SE0002",
+                "downloaded": []
+            }
+        ],
+        "downloads": [
+            {
+                "file_id": "FE0001"
+            }
+        ]
+    },
+    "CR0002": {
+        "avatar": "avatar-cr0002.jpg",
+        "first_name": "Cintia",
+        "last_name": "Wellborn",
+        "born": "12/03/1993",
+        "dummy": false,
+        "email": "cintia.wellborn@ecompany.com",
+        "telephone": "5059205230",
+        "interests": [ "cinema", "music", "books" ],
+        "job": "Secretary",
+        "job_place": "E-company",
+        "job_begin": "15/10/2012",
+        "born_visibility": "public",
+        "contacts_visibility": "public",
+        "job_visibility": "public",
+        "interests_visibility": "public",
+        "graphX": 0,
+        "graphY": 200,
+        "calls": [
+            {
+                "call_id": "CL0001",
+                "role_id": 1
+            }
+        ],
+        "chats": [
+            {
+                "chat_id": "CT0002",
+                "role_id": 1 
+            }
+        ],
+        "emails": [
+            {
+                "email_id": "EL0001",
+                "role_id": 1
+            },
+            {
+                "email_id": "EL0003",
+                "role_id": 2
+            }
+        ],
+        "sites": [
+            {
+                "site_id": "SE0002"
+            }
+        ],
+        "downloads": []
+    },
+    "CR0003": {
+        "avatar": "avatar-cr0003.jpg",
+        "first_name": "Steven",
+        "last_name": "Farawell",
+        "born": "09/02/1991",
+        "dummy": false,
+        "email": "steven.farawell@ecompany.com",
+        "telephone": "5059205230",
+        "interests": [ "cinema", "music", "travel" ],
+        "job": "Stagist",
+        "job_place": "E-company",
+        "job_begin": "18/04/2011",
+        "born_visibility": "public",
+        "contacts_visibility": "public",
+        "job_visibility": "hidden",
+        "interests_visibility": "public",
+        "graphX": 100,
+        "graphY": 300,
+        "calls": [],
+        "chats": [],
+        "emails": [
+            {
+                "email_id": "EL0003",
+                "role_id": 1
+            }
+        ],
+        "sites": [
+            {
+                "site_id": "SE0002",
+                "downloaded": []
+            }
+        ],
+        "downloads": []
+    }
+}

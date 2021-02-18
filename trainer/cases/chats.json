@@ -1,0 +1,78 @@
+{
+    "CT0001": {
+        "category": "yellow",
+        "messages": [
+            {
+                "from": 1,
+                "text": "Guarda qui! Ho appena vinto un buono per Amazon su questo sito >> |LL0001|",
+                "labels": {
+                    "LL0001": {
+                        "relevant": true,
+                        "content": "amazoon.cash"
+                    }
+                },
+                "datetime": "14:05 01/01/1970"
+            },
+            {
+                "from": 2,
+                "text": "No, I'm sorry, |LL0003|",
+                "labels": {
+                    "LL0003": {
+                        "relevant": true,
+                        "content": "I can't"
+                    }
+                },
+                "datetime": "14:15 01/01/1970"
+            },
+            {
+                "from": 1,
+                "text": "Ok, no problems! Bye",
+                "labels": {},
+                "datetime": "14:16 01/01/1970"
+            },
+            {
+                "from": 2,
+                "text": "Bye! See you next time!",
+                "labels": {},
+                "datetime": "14:17 01/01/1970"
+            }
+        ]
+    },
+    "CT0002": {
+        "category": "yellow",
+        "messages": [
+            {
+                "from": 1,
+                "text": "Guarda qui! Ho appena vinto un buono per Amazon su questo sito >> |LL0001|",
+                "labels": {
+                    "LL0001": {
+                        "relevant": true,
+                        "content": "hxxp://094.li/2HJwz"
+                    }
+                },
+                "datetime": "14:05 01/01/1970"
+            },
+            {
+                "from": 1,
+                "text": "Ne ho trovato un altro di |LL0002|: puoi richiederlo anche tu da questo link >> |LL0003|",
+                "labels": {
+                    "LL0002": {
+                        "relevant": false,
+                        "content": "www.amazon.it"
+                    },
+                    "LL0003": {
+                        "relevant": true,
+                        "content": "hxxp://bf4.li/2d8f1"
+                    }
+                },
+                "datetime": "14:15 01/01/1970"
+            },
+            {
+                "from": 2,
+                "text": "Grazie! Ci do' un'occhiata!!",
+                "labels": {},
+                "datetime": "14:15 01/01/1970"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "CL0001": {
+        "category": "red",
+        "received": "20:15:21 01/01/1970",
+        "closed": "20:20:14 01/01/1970",
+        "dialogues": [
+            {
+                "from": 1,
+                "text": "Hey, |LL0001|?",
+                "labels": {
+                    "LL0001": {
+                        "relevant": true,
+                        "content": "can i have your email address"
+                    }
+                }                
+            },
+            {
+                "from": 2,
+                "text": "Sure, |LL0002|",
+                "labels": {
+                    "LL0002": {
+                        "relevant": true,
+                        "content": "email@test.it"
+                    }
+                }
+            }
+        ]
+    }
+}

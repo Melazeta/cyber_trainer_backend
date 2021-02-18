@@ -1,0 +1,54 @@
+{
+    "SE0001": {
+        "category": "yellow",
+        "title": "PeiPol",
+        "protocol": "|LL0001|",
+        "domain": "www.|LL0002|",
+        "uri": "|LL0003|",
+        "icon": "paypal-site.png",
+        "downloadble": [
+            "FE0001"
+        ],
+        "datetime": "12:34 07/09/2020",
+        "preview": {
+            "template": "login",
+            "image_size": "medium",
+            "image_position": "left",
+            "background_color": "blue",
+            "text": "Please, |LL0004| to unlock your account!"
+        },
+        "labels": {
+            "LL0001": {
+                "relevant": true,
+                "content": "http"
+            },
+            "LL0002": {
+                "relevant": true,
+                "content": "peipol.dynamic-domains.xyz"
+            },                
+            "LL0003": {
+                "relevant": true,
+                "content": "/peipol/"
+            },
+            "LL0004": {
+                "relevant": true,
+                "content": "confirm your email and password"
+            }
+        }
+    },
+    "SE0002": {
+        "category": "green",
+        "title": "News H24",
+        "protocol": "https",
+        "domain": "|LL0001|",
+        "uri": "/today/",
+        "icon": "news-site.png",
+        "datetime": "20:18 01/01/1970",
+        "labels": {
+            "LL0001": {
+                "relevant": false,
+                "content": "www.newsh24.it"
+            }
+        }
+    }
+}

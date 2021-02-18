@@ -1,0 +1,79 @@
+{
+    "EL0001": {
+        "category": "red",
+        "datetime": "01/01/1970",
+        "from_name": "Servizio clienti VODAFONE",
+        "from_email": "|LL0001|",
+        "to_email": "info@e-company.com",
+        "avatar": "a-letter.png",
+        "object": "Invio richiesta fattura",
+        "text": "Gentile cliente,\n\nprovvediamo all'invio della copia conforme all'originale della fattura come da Sua richiesta.\n|LL0002|\n\nPer maggiorni informazioni |LL0003|\nCordiali saluti,\n\nServizio clienti Vodafone",
+        "labels": {
+            "LL0001": {
+                "relevant": true,
+                "content": "luqulaycryjelay@dynamic-domain.ru"
+            },
+            "LL0002": {
+                "relevant": true,
+                "content": "La invitiamo pertanto a visionare la documentazione allegata."
+            },
+            "LL0003": {
+                "relevant": false,
+                "content": "visitare il nostro sito: www.vodafone.it"
+            }
+        },
+        "attachments": [
+            "FE0003"
+        ]
+    },
+    "EL0002": {
+        "category": "yellow",
+        "datetime": "01/01/1970",
+        "from_name": "Travel Agency",
+        "from_email": "|LL0001|",
+        "to_email": "",
+        "avatar": "e-letter.png",
+        "object": "Low cost travel",
+        "text": "Hey! |LL0002|?\n\nPlease contact is to |LL0003|!",
+        "labels": {
+            "LL0001": {
+                "relevant": true,
+                "content": "spam@dynamic-domains.ru"
+            },
+            "LL0002": {
+                "relevant": false,
+                "content": "you need a holiday"
+            },
+            "LL0003": {
+                "relevant": true,
+                "content": "this number 505 2303 0047"
+            }
+        },
+        "attachments": []
+    },
+    "EL0003": {
+        "category": "red",
+        "datetime": "01/01/1970",
+        "from_name": "Steven Farawell",
+        "from_email": "|LL0001|",
+        "to_email": "cintia.wellborn@e-company.com",
+        "avatar": "a-letter.png",
+        "object": "Richiesta fattura",
+        "text": "Hi man, |LL0002|!\n\nPlease contact me to |LL0003|!\nSee you!",
+        "labels": {
+            "LL0001": {
+                "relevant": true,
+                "content": "cintia.wellborn@ecompany.com"
+            },
+            "LL0002": {
+                "relevant": false,
+                "content": "I've seriously need your help"
+            },
+            "LL0003": {
+                "relevant": true,
+                "content": "this number 505 2303 0047"
+            }
+        },
+        "attachments": []
+    }
+}

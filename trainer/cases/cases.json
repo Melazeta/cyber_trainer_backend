@@ -1,0 +1,42 @@
+{
+    "CE0001" : {
+        "level_number": 1,
+        "title": "Tutorial",
+        "description": "Welcome in a new advance cyber trainer platform.\n\nIn your first case you will have to investigate on commons employees behaviours.\nIt turned out that some of them do not have a safe behaviour...\n\nFind all action that can cause a cyber security breach!",
+        "average_duration": 20,
+        "difficulty": "easy",
+        "preview": "/media/tutorial-preview.jpg",
+        "welcome_message": "Welcome in your first case!\n\nI'm your AI assistent and I will help you during your case ...",
+        "characters": [ "CR0000", "CR0001", "CR0002", "CR0003" ],
+        "unlocked_characters": [ "CR0001" ],
+        "focussed_character": "CR0001",
+        "sections": {
+            "emails": {
+                "content": "In this section you can see all the email received by the character.\n\nBe careful to all email details!",
+                "display_once": true
+            },
+            "calls": {
+                "content": "All character incoming calls are stored in this section.\n\nWill there be any unusual calls?",
+                "display_once": true
+            },
+            "chats": {
+                "content": "In this section you can see all the character chat conversations.\n\nPay attenction on each message content and the sender!",
+                "display_once": true
+            },
+            "history": {
+                "content": "All sites and file downloaded aby the character are stored in this section.\n\nWill all be lawful? Pay attection to eact detail!",
+                "display_once": true
+            }
+        }
+    },
+    "CE0002": {
+        "level_number": 2,
+        "title": "E-company",
+        "description": "You have been assigned to your first case!\n\nYou will have to investigate on the E-company employees.\nIt turned out that some of them do not have a safe behaviour...\n\nFind all action that can cause a cyber security breach!",
+        "difficulty": "medium",
+        "avarage_duration": 25,
+        "preview": "/media/ecompany-preview.jpg",
+        "characters": [ "CR0000", "CR0001", "CR0002" ],
+        "unlocked_characters": [ "CR0001" ]
+    }
+}

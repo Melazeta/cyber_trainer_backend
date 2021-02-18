@@ -1,0 +1,49 @@
+{
+    "FE0001": {
+        "icon": "js-icon.png",
+        "base_name": "|LL0001|",
+        "extention": "js",
+        "download_link": "http://chrome-update-site.dynamic-domains.club",
+        "datetime": "17:50 09/09/2020",
+        "labels": {
+            "LL0001": {
+                "relevant": true,
+                "content": "chrome_update_0275"
+            }
+        }
+    },
+    "FE0002": {
+        "icon": "icon_uri",
+        "base_name": "Nuovo documento",
+        "extention": "doc",
+        "download_link": "",
+        "datetime": "17:50 01/01/1970",
+        "preview": {
+            "macro_button": true,
+            "image": "image_uri",
+            "image_size": "medium",
+            "image_position": "left",
+            "background_color": "blue",
+            "text": "Document locked! Please |LL0001|..."
+        },
+        "labels": {
+            "LL0001": {
+                "relevant": true,
+                "content": "enable macro to view its content"
+            }
+        }
+    },
+    "FE0003": {
+        "icon": "doc-icon.png",
+        "base_name": "|LL0001|",
+        "extention": "docm",
+        "download_link": "http://chrome-update-site.dynamic-domains.club",
+        "datetime": "17:50 09/09/2020",
+        "labels": {
+            "LL0001": {
+                "relevant": true,
+                "content": "faktura_03240621"
+            }
+        }
+    }
+}
