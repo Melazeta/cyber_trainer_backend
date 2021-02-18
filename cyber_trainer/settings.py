@@ -30,7 +30,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    '127.0.0.1'
+    '127.0.0.1',
+    '*',
 ]
 
 # Application definition
@@ -48,9 +49,7 @@ INSTALLED_APPS = [
     'trainer.apps.TrainerConfig'
 ]
 
-CORS_ORIGIN_WHITELIST = (
-    'http://localhost:3000',
-)
+CORS_ORIGIN_ALLOW_ALL = True
 
 API_URL = 'api/'
 
